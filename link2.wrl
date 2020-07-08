@@ -2,6 +2,7 @@
 
 
 DEF link2 Transform {
+scale 100 100 100
 children[
 
 Transform {

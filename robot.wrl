@@ -2,8 +2,6 @@
 Transform {
 	children [
 		DEF link0 Transform {
-			rotation 0 0 0 0
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link0.wrl"
@@ -11,9 +9,6 @@ Transform {
 			]
 		}
 		DEF link1 Transform {
-			rotation 0 0 0 0
-			translation 0 0.15 0
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link1.wrl"
@@ -21,8 +16,6 @@ Transform {
 			]
 		}
 		DEF link2 Transform {
-			translation 0 0.33 0
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link2.wrl"
@@ -30,8 +23,6 @@ Transform {
 			]
 		}
 		DEF link3 Transform {
-			translation 0 0 0.33
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link3.wrl"
@@ -39,8 +30,6 @@ Transform {
 			]
 		}
 		DEF link4 Transform {
-			translation 0 0 0.63
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link4.wrl"
@@ -48,8 +37,6 @@ Transform {
 			]
 		}
 		DEF link5 Transform {
-			translation 0 0.63 0
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link5.wrl"
@@ -57,8 +44,6 @@ Transform {
 			]
 		}
 		DEF link6 Transform {
-			translation 0 1.051 0
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link6.wrl"
@@ -66,8 +51,6 @@ Transform {
 			]
 		}
 		DEF link7 Transform {
-			translation 0 1.051 0
-			scale 0.01 0.01 0.01
 			children [
 				Inline {
 					url "link7.wrl"
