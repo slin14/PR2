@@ -200,8 +200,8 @@
         <y>0</y>
         <z>-1</z>
       </axis>
-      <max>165</max>
-      <min>-165</min>
+      <max>170</max>
+      <min>0</min>
       <speed>140</speed>
     </revolute>
 		<fixed id="fixed1">
@@ -241,8 +241,8 @@
 				<a idref="body1"/>
 				<b idref="frame2"/>
 			</frame>
-			<max>155</max>
-			<min>-85</min>
+			<max>115</max>
+			<min>0</min>
 			<speed>160</speed>
 		</revolute>
 		<fixed id="fixed3">
@@ -287,8 +287,8 @@
 				<y>0</y>
 				<z>-1</z>
 			</axis>
-			<max>0</max>
-			<min>-170</min>
+			<max>135</max>
+			<min>-135</min>
 			<speed>170</speed>
 		</revolute>
 		<fixed id="fixed5">
@@ -317,8 +317,8 @@
 				<y>0</y>
 				<z>-1</z>
 			</axis>
-			<max>210</max>
-			<min>-210</min>
+			<max>140</max>
+			<min>0</min>
 			<speed>450</speed>
 		</revolute>
 		<fixed id="fixed6">
@@ -358,8 +358,8 @@
 				<a idref="body4"/>
 				<b idref="frame7"/>
 			</frame>
-			<max>130</max>
-			<min>-120</min>
+			<max>100000</max>
+			<min>-100000</min>
 			<speed>375</speed>
 		</revolute>
 		<fixed id="fixed8">
@@ -388,8 +388,8 @@
         <y>0</y>
         <z>-1</z>
       </axis>
-      <max>2700</max>
-      <min>-2700</min>
+      <max>130</max>
+      <min>0</min>
       <speed>550</speed>
     </revolute>
 		<fixed id="fixed9">
@@ -418,8 +418,8 @@
 				<y>0</y>
 				<z>-1</z>
 			</axis>
-			<max>2700</max>
-			<min>-2700</min>
+			<max>27000</max>
+			<min>-27000</min>
 			<speed>550</speed>
 		</revolute>
     <fixed id="fixed10">
