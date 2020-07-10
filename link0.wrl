@@ -2,7 +2,7 @@
 
 DEF link0 Transform {
 
-	scale 100 100 100
+	scale 1000 1000 1000
 	children [
 
 

@@ -3,7 +3,7 @@
 
 DEF link7 Transform {
 translation -0.003 0 0
-scale 100 100 100
+scale 1000 1000 1000
 children[
 
 
