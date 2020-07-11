@@ -30,19 +30,19 @@
 			<ignore idref="body0"/>
 			<ignore idref="body2"/>
 			<cm>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>-0.001201</x>
+				<y>0.024513</y>
+				<z>-0.098231</z>
 			</cm>
 			<i>
-				<xx>0</xx>
-				<xy>0</xy>
-				<xz>0</xz>
-				<yy>0</yy>
-				<yz>0</yz>
-				<zz>0</zz>
+				<xx>0.866179142480</xx>
+				<xy>-0.06086507933</xy>
+				<xz>-0.12118061183</xz>
+				<yy>0.87421714893</yy>
+				<yz>-0.05886609911</yz>
+				<zz>0.27353821674</zz>
 			</i>
-			<m>0</m>
+			<m>25.799322</m>
 		</body>
 		<frame id="frame2"/>
     <frame id="frame3"/>
@@ -51,38 +51,38 @@
 			<ignore idref="body3"/>
 			<ignore idref="body4"/>
 			<cm>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>0.02195</x>
+				<y>-0.02664</y>
+				<z>-0.03127</z>
 			</cm>
 			<i>
-        <xx>0</xx>
-        <xy>0</xy>
-        <xz>0</xz>
-        <yy>0</yy>
-        <yz>0</yz>
-        <zz>0</zz>
+        <xx>0.02105584615</xx>
+        <xy>0.00496704022</xy>
+        <xz>-0.00194808955</xz>
+        <yy>0.02127223737</yy>
+        <yz>0.00110425490</yz>
+        <zz>0.01975753814</zz>
 			</i>
-			<m>0</m>
+			<m>2.74988</m>
 		</body>
 		<frame id="frame4"/>
 		<body id="body3">
 			<ignore idref="body2"/>
 			<ignore idref="body4"/>
 			<cm>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>0.21398</x>
+				<y>-0.01621</y>
+				<z>-0.0002</z>
 			</cm>
 			<i>
-        <xx>0</xx>
-        <xy>0</xy>
-        <xz>0</xz>
-        <yy>0</yy>
-        <yz>0</yz>
-        <zz>0</zz>
+        <xx>0.01537748957</xx>
+        <xy>0.00375711247</xy>
+        <xz>-0.00070852914</xz>
+        <yy>0.0747367044</yy>
+        <yz>-0.0001793645</yz>
+        <zz>0.07608763307</zz>
 			</i>
-			<m>0</m>
+			<m>6.01769</m>
 		</body>
 		<frame id="frame5"/>
 		<frame id="frame6"/>
@@ -93,19 +93,19 @@
 			<ignore idref="body5"/>
 			<ignore idref="body6"/>
 			<cm>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>0.01014</x>
+				<y>0.00032</y>
+				<z>-0.01211</z>
 			</cm>
 			<i>
-        <xx>0</xx>
-        <xy>0</xy>
-        <xz>0</xz>
-        <yy>0</yy>
-        <yz>0</yz>
-        <zz>0</zz>
+        <xx>0.00346541989</xx>
+        <xy>0.00004066825</xy>
+        <xz>0.00043171614</xz>
+        <yy>0.00441606455</yy>
+        <yz>-0.00003968914</yz>
+        <zz>0.00359156824</zz>
 			</i>
-			<m>0</m>
+			<m>1.90327</m>
 		</body>
 		<frame id="frame7"/>
 		<body id="body5">
@@ -115,19 +115,19 @@
       <ignore idref="body4"/>
       <ignore idref="body6"/>
 			<cm>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>0.18791</x>
+				<y>-0.00017</y>
+				<z>-0.00912</z>
 			</cm>
 			<i>
-        <xx>0</xx>
-        <xy>0</xy>
-        <xz>0</xz>
-        <yy>0</yy>
-        <yz>0</yz>
-        <zz>0</zz>
+        <xx>0.00364857222</xx>
+        <xy>0.00005215877</xy>
+        <xz>0.00071534842</xz>
+        <yy>0.01507736897</yy>
+        <yz>-0.00001310770</yz>
+        <zz>0.01659310749</zz>
 			</i>
-			<m>0</m>
+			<m>2.57968</m>
 		</body>
 		<frame id="frame8"/>
 		<body id="body6">
@@ -137,19 +137,19 @@
       <ignore idref="body4"/>
       <ignore idref="body5"/>
 			<cm>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>-0.00157</x>
+				<y>0.0</y>
+				<z>-0.00075</z>
 			</cm>
 			<i>
-        <xx>0</xx>
-        <xy>0</xy>
-        <xz>0</xz>
-        <yy>0</yy>
-        <yz>0</yz>
-        <zz>0</zz>
+        <xx>0.00065165722</xx>
+        <xy>0.00000028864</xy>
+        <xz>0.00000303477</xz>
+        <yy>0.00019824443</yy>
+        <yz>-0.00000022645</yz>
+        <zz>0.00064450498</zz>
 			</i>
-			<m>0</m>
+			<m>0.61402</m>
 		</body>
 		<frame id="frame9"/>
     <body id="body7">
@@ -160,19 +160,19 @@
       <ignore idref="body5"/>
       <ignore idref="body6"/>
       <cm>
-        <x>0</x>
-				<y>0</y>
-				<z>0</z>
+        <x>0.06623</x>
+				<y>0.00053</y>
+				<z>-0.00119</z>
       </cm>
       <i>
-        <xx>0</xx>
-        <xy>0</xy>
-        <xz>0</xz>
-        <yy>0</yy>
-        <yz>0</yz>
-        <zz>0</zz>
+        <xx>0.00035223921</xx>
+        <xy>-0.00001580476</xy>
+        <xz>-0.00000091750</xz>
+        <yy>0.00067741312</yy>
+        <yz>-0.00000059554</yz>
+        <zz>0.00086563316</zz>
       </i>
-      <m>0</m>
+      <m>0.58007</m>
     </body>
 		<fixed id="fixed0">
 			<frame>
@@ -202,7 +202,7 @@
       </axis>
       <max>40.94366927</max>
       <min>-130.9436693</min>
-      <speed>140</speed>
+      <speed>120</speed>
     </revolute>
 		<fixed id="fixed1">
 			<frame>
