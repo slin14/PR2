@@ -198,7 +198,7 @@
       <axis>
         <x>0</x>
         <y>0</y>
-        <z>-1</z>
+        <z>1</z>
       </axis>
       <max>40.94366927</max>
       <min>-130.9436693</min>
@@ -241,6 +241,11 @@
 				<a idref="body1"/>
 				<b idref="frame2"/>
 			</frame>
+      <axis>
+        <x>0</x>
+        <y>1</y>
+        <z>0</z>
+      </axis>
 			<max>80</max>
 			<min>-30</min>
 			<speed>160</speed>
@@ -284,8 +289,8 @@
 			</frame>
 			<axis>
 				<x>0</x>
-				<y>0</y>
-				<z>-1</z>
+				<y>1</y>
+				<z>0</z>
 			</axis>
 			<max>45.83662361</max>
 			<min>-223.4535401</min>
@@ -314,8 +319,8 @@
 			</frame>
 			<axis>
 				<x>0</x>
-				<y>0</y>
-				<z>-1</z>
+				<y>1</y>
+				<z>0</z>
 			</axis>
 			<max>0</max>
 			<min>-133.000693</min>
@@ -354,6 +359,11 @@
       </translation>
     </fixed>
 		<revolute id="joint4">
+      <axis>
+        <x>1</x>
+        <y>0</y>
+        <z>0</z>
+      </axis>
 			<frame>
 				<a idref="body4"/>
 				<b idref="frame7"/>
@@ -385,8 +395,8 @@
       </frame>
       <axis>
         <x>0</x>
-        <y>0</y>
-        <z>-1</z>
+        <y>1</y>
+        <z>0</z>
       </axis>
       <max>0</max>
       <min>-124.9047993</min>
@@ -414,9 +424,9 @@
 				<b idref="frame9"/>
 			</frame>
 			<axis>
-				<x>0</x>
+				<x>1</x>
 				<y>0</y>
-				<z>-1</z>
+				<z>0</z>
 			</axis>
 			<max>27000</max>
 			<min>-27000</min>
