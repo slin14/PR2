@@ -348,14 +348,14 @@
         <b idref="body4"/>
       </frame>
       <rotation>
-        <x>0</x>
+        <x>90</x>
         <y>0</y>
         <z>0</z>
       </rotation>
       <translation>
-        <x>0</x>
+        <x>0.4</x>
         <y>0</y>
-        <z>0.321</z>
+        <z>0</z>
       </translation>
     </fixed>
 		<revolute id="joint4">
