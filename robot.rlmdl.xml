@@ -288,8 +288,8 @@
 				<b idref="frame4"/>
 			</frame>
 			<axis>
-				<x>0</x>
-				<y>1</y>
+				<x>1</x>
+				<y>0</y>
 				<z>0</z>
 			</axis>
 			<max>45.83662361</max>
