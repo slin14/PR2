@@ -408,12 +408,12 @@
 				<b idref="body6"/>
 			</frame>
 			<rotation>
-				<x>90</x>
+				<x>0</x>
 				<y>0</y>
 				<z>0</z>
 			</rotation>
 			<translation>
-				<x>0</x>
+				<x>0.321</x>
 				<y>0</y>
 				<z>0</z>
 			</translation>
@@ -443,7 +443,7 @@
         <z>0</z>
       </rotation>
       <translation>
-        <x>0</x>
+        <x>0.009</x>
         <y>0</y>
         <z>0</z>
       </translation>
