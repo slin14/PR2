@@ -174,6 +174,8 @@
       </i>
       <m>0.58007</m>
     </body>
+    <frame id="frame10"/>
+    
 		<fixed id="fixed0">
 			<frame>
 				<a idref="world"/>
@@ -448,10 +450,26 @@
         <z>0</z>
       </translation>
     </fixed>
+    <fixed id="fixed11">
+      <frame>
+        <a idref="body7"/>
+        <b idref="frame10"/>
+      </frame>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </rotation>
+      <translation>
+        <x>0.16828</x>
+        <y>-0.01495</y>
+        <z>0</z>
+      </translation>
+    </fixed>
 		<home>
 			<q unit="deg">0</q>
 			<q unit="deg">0</q>
-			<q unit="deg">-90</q>
+			<q unit="deg">0</q>
 			<q unit="deg">0</q>
 			<q unit="deg">0</q>
 			<q unit="deg">0</q>
