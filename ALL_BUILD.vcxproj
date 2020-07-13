@@ -158,7 +158,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <None Include="elbow_flex.wrl" />
     <None Include="link5.wrl" />
     <None Include="forearm_roll.wrl" />
     <None Include="gripper_palm.wrl" />

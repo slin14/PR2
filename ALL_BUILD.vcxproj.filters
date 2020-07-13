@@ -4,7 +4,6 @@
     <CustomBuild Include="C:\Users\sophi\rl-0.7.0\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="elbow_flex.wrl" />
     <None Include="forearm_roll.wrl" />
     <None Include="gripper_palm.wrl" />
     <None Include="robot.wrl" />
