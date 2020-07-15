@@ -5,7 +5,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="forearm_roll.wrl" />
-    <None Include="gripper_palm.wrl" />
     <None Include="robot.wrl" />
     <None Include="link5.wrl" />
     <None Include="link2.wrl" />
@@ -15,6 +14,9 @@
     <None Include="link4.wrl" />
     <None Include="link6.wrl" />
     <None Include="link7.wrl" />
+    <None Include="upper_finger_r.wrl" />
+    <None Include="gripper_palm.wrl" />
+    <None Include="finger_tip_r.wrl" />
   </ItemGroup>
   <ItemGroup>
     <Xml Include="robot.rlmdl.xml" />

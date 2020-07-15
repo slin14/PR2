@@ -158,9 +158,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <None Include="finger_tip_r.wrl" />
+    <None Include="gripper_palm.wrl" />
     <None Include="link5.wrl" />
     <None Include="forearm_roll.wrl" />
-    <None Include="gripper_palm.wrl" />
     <None Include="robot.wrl" />
     <None Include="link2.wrl" />
     <None Include="link1.wrl" />
@@ -169,6 +170,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <None Include="link4.wrl" />
     <None Include="link6.wrl" />
     <None Include="link7.wrl" />
+    <None Include="upper_finger_r.wrl" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\sophi\rl-0.7.0\build\ZERO_CHECK.vcxproj">
