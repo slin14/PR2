@@ -29,6 +29,11 @@
 		<body id="body1">
 			<ignore idref="body0"/>
 			<ignore idref="body2"/>
+      <ignore idref="body3"/>
+      <ignore idref="body4"/>
+      <ignore idref="body5"/>
+      <ignore idref="body6"/>
+      <ignore idref="body7"/>
 			<cm>
 				<x>-0.001201</x>
 				<y>0.024513</y>
@@ -47,9 +52,13 @@
 		<frame id="frame2"/>
     <frame id="frame3"/>
 		<body id="body2">
-			<ignore idref="body1"/>
+      <ignore idref="body0"/>
+      <ignore idref="body1"/>
 			<ignore idref="body3"/>
 			<ignore idref="body4"/>
+      <ignore idref="body5"/>
+      <ignore idref="body6"/>
+      <ignore idref="body7"/>
 			<cm>
 				<x>0.02195</x>
 				<y>-0.02664</y>
@@ -67,8 +76,13 @@
 		</body>
 		<frame id="frame4"/>
 		<body id="body3">
-			<ignore idref="body2"/>
-			<ignore idref="body4"/>
+      <ignore idref="body0"/>
+      <ignore idref="body1"/>
+      <ignore idref="body2"/>
+      <ignore idref="body4"/>
+      <ignore idref="body5"/>
+      <ignore idref="body6"/>
+      <ignore idref="body7"/>
 			<cm>
 				<x>0.21398</x>
 				<y>-0.01621</y>
@@ -87,11 +101,13 @@
 		<frame id="frame5"/>
 		<frame id="frame6"/>
 		<body id="body4">
+      <ignore idref="body0"/>
       <ignore idref="body1"/>
-			<ignore idref="body2"/>
-			<ignore idref="body3"/>
-			<ignore idref="body5"/>
-			<ignore idref="body6"/>
+      <ignore idref="body2"/>
+      <ignore idref="body3"/>
+      <ignore idref="body5"/>
+      <ignore idref="body6"/>
+      <ignore idref="body7"/>
 			<cm>
 				<x>0.01014</x>
 				<y>0.00032</y>
@@ -109,11 +125,13 @@
 		</body>
 		<frame id="frame7"/>
 		<body id="body5">
+      <ignore idref="body0"/>
       <ignore idref="body1"/>
       <ignore idref="body2"/>
       <ignore idref="body3"/>
       <ignore idref="body4"/>
       <ignore idref="body6"/>
+      <ignore idref="body7"/>
 			<cm>
 				<x>0.18791</x>
 				<y>-0.00017</y>
@@ -131,11 +149,13 @@
 		</body>
 		<frame id="frame8"/>
 		<body id="body6">
+      <ignore idref="body0"/>
       <ignore idref="body1"/>
       <ignore idref="body2"/>
       <ignore idref="body3"/>
       <ignore idref="body4"/>
       <ignore idref="body5"/>
+      <ignore idref="body7"/>
 			<cm>
 				<x>-0.00157</x>
 				<y>0.0</y>
@@ -153,6 +173,7 @@
 		</body>
 		<frame id="frame9"/>
     <body id="body7">
+      <ignore idref="body0"/>
       <ignore idref="body1"/>
       <ignore idref="body2"/>
       <ignore idref="body3"/>
@@ -183,7 +204,7 @@
 			</frame>
 			<rotation>
 				<x>0</x>
-				<y>0</y>
+				<y>-0.188</y>
 				<z>0</z>
 			</rotation>
 			<translation>
@@ -217,8 +238,8 @@
 				<z>-90</z>
 			</rotation>
 			<translation>
-				<x>0</x>
-				<y>-0.001</y>
+				<x>0.1</x>
+				<y>0</y>
 				<z>0</z>
 			</translation>
 		</fixed>
@@ -250,7 +271,7 @@
       </axis>
 			<max>80</max>
 			<min>-30</min>
-			<speed>160</speed>
+			<speed>120</speed>
 		</revolute>
 		<fixed id="fixed3">
 			<frame>
@@ -281,7 +302,7 @@
       <translation>
         <x>0</x>
         <y>0</y>
-        <z>0.004</z>
+        <z>0</z>
       </translation>
     </fixed>
 		<revolute id="joint2">
@@ -296,7 +317,7 @@
 			</axis>
 			<max>45.83662361</max>
 			<min>-223.4535401</min>
-			<speed>170</speed>
+			<speed>186</speed>
 		</revolute>
 		<fixed id="fixed5">
 			<frame>
@@ -326,7 +347,7 @@
 			</axis>
 			<max>0</max>
 			<min>-133.000693</min>
-			<speed>450</speed>
+			<speed>189</speed>
 		</revolute>
 		<fixed id="fixed6">
 			<frame>
@@ -370,9 +391,9 @@
 				<a idref="body4"/>
 				<b idref="frame7"/>
 			</frame>
-			<max>100000</max>
-			<min>-100000</min>
-			<speed>375</speed>
+			<max>2700</max>
+			<min>-2700</min>
+			<speed>206</speed>
 		</revolute>
 		<fixed id="fixed8">
 			<frame>
@@ -430,9 +451,9 @@
 				<y>0</y>
 				<z>0</z>
 			</axis>
-			<max>27000</max>
-			<min>-27000</min>
-			<speed>550</speed>
+			<max>2700</max>
+			<min>-2700</min>
+			<speed>206</speed>
 		</revolute>
     <fixed id="fixed10">
       <frame>
@@ -445,7 +466,7 @@
         <z>0</z>
       </rotation>
       <translation>
-        <x>0.009</x>
+        <x>0</x>
         <y>0</y>
         <z>0</z>
       </translation>
@@ -473,6 +494,7 @@
 			<q unit="deg">0</q>
 			<q unit="deg">0</q>
 			<q unit="deg">0</q>
+      <q unit="deg">0</q>
 		</home>
 	</model>
 </rlmdl>
