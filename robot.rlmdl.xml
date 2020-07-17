@@ -17,7 +17,7 @@
 			<g>
 				<x>0</x>
 				<y>0</y>
-				<z>0</z>
+				<z>9.8</z>
 			</g>
 		</world>
 		<body id="body0">
@@ -204,13 +204,13 @@
 			</frame>
 			<rotation>
 				<x>0</x>
-				<y>-0.188</y>
+				<y>0</y>
 				<z>0</z>
 			</rotation>
 			<translation>
-				<x>0</x>
-				<y>0</y>
-				<z>0</z>
+				<x>-0.05</x>
+				<y>0.188</y>
+				<z>0.789675</z>
 			</translation>
 		</fixed>
     <revolute id="joint0">
