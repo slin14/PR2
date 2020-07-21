@@ -10,9 +10,9 @@
 				<z>0</z>
 			</rotation>
 			<translation>
-				<x>-0.05</x>
-				<y>0</y>
-				<z>0.789675</z>
+				<x>-0.07</x>
+				<y>0.1</y>
+				<z>0.689675</z>
 			</translation>
 			<g>
 				<x>0</x>
@@ -221,7 +221,7 @@
       <axis>
         <x>0</x>
         <y>0</y>
-        <z>1</z>
+        <z>-1</z>
       </axis>
       <max>40.94366927</max>
       <min>-130.9436693</min>
@@ -488,13 +488,13 @@
       </translation>
     </fixed>
 		<home>
+			<q unit="deg">-22.91831181</q>
+			<q unit="deg">57.47912601</q>
 			<q unit="deg">0</q>
+			<q unit="deg">-117.0953846</q>
 			<q unit="deg">0</q>
-			<q unit="deg">0</q>
-			<q unit="deg">0</q>
-			<q unit="deg">0</q>
-			<q unit="deg">0</q>
-      <q unit="deg">0</q>
+			<q unit="deg">-5.723848373</q>
+      <q unit="deg">-0.005729578</q>
 		</home>
 	</model>
 </rlmdl>
