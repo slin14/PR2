@@ -2,7 +2,7 @@
 
 DEF link3 Transform {
 scale 1000 1000 1000
-translation -0.4 0 0
+translation -0.3 0 0
 children[
 
 #upper_arm_roll
