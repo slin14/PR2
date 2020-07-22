@@ -3,7 +3,7 @@
 DEF link1 Transform {
 
 scale 1000 1000 1000
-translation -0.1 0 0
+translation 0 0 0
 children[
 
 Transform {
